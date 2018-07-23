@@ -146,5 +146,5 @@ Danyuanhong
 
 [neucrack](http://neucrack.com)
 
-[xz1996](http://git.oschina.net/xz1996)
+[xz1996](https://github.com/xz1996)
 
